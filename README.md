@@ -16,6 +16,7 @@ Engaging with Yakshagana isn't just about preserving tradition; it's a fascinati
 Yakshagana is not just a form of entertainment; it's a bridge to our roots, connecting us with the rich tapestry of Indian history and mythology. Embracing Yakshagana as a hobby is a step towards fostering cultural understanding and appreciation.
 
 Explore the magic of Yakshagana and witness its beauty through captivating performances:
+
 ![Performance 1](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/photos/kannada%20rajyotstava%201.jpg)
 ![Performance 2](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/photos/IMG_20190521_174925.jpg)
 ![Performance 3](https://github.com/ashay-thamankar/Yakshagana-Gallary/blob/main/photos/IMG_20190521_184621.jpg)
